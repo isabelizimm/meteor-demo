@@ -1,0 +1,8 @@
+format: jb-book
+root: README
+parts:
+  - caption: Features
+    chapters:
+    - file: docs/rendering-text
+    - file: docs/interact-with-code
+    - file: docs/community-native
